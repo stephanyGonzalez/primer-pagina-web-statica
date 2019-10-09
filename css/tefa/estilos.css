@@ -1,0 +1,57 @@
+body{background-color: #FFF30A;
+	 background-image:url(fotos/fondo.jpg); }
+
+
+
+nav{background-color: white;
+		color: #3E85FF}
+
+h1{font-size: 58px;
+	color:#3E85FF;
+	background-color:white;
+	margin-right: 200px;
+	margin-left: 200px;
+	margin-top: 100px;
+	padding-right: 60px}
+
+h2{font-size: 38px}
+
+#texto_inicio{font-size:29px;
+  background-color: white;
+  color:#3E85FF;
+  margin-top:80px }	
+
+ol{font-size:29px;
+  background-color: white;
+  color:#3E85FF}
+
+header{margin-left:200px;}
+
+nav ul{list-style: none;}
+
+nav ul li{color:#3E85FF ;
+		 float: left;
+		 margin-left:25px;
+		 margin-right:25px;
+		 font-size: 30px;
+		 text-decoration:none;
+		 border-style:solid;
+		 border-color: white;
+		 padding:1px}
+
+#margen{background-color:#FFF30A; 
+		margin-right:130px;
+		margin-left: 130px;
+		margin-top: 50px}
+
+#texto_homero{font-size:29px;
+  background-color: white;
+  color:#3E85FF;
+margin: 25px;
+padding: 5px;}
+
+#foto_homero{float: right;} 
+
+#titulo_homero{margin: 25px} 
+
+
